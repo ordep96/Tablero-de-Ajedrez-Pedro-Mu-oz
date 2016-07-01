@@ -3,6 +3,10 @@
 	padding:0;
 }
 
+body{
+	background:#eeeeee;
+}
+
 h1{
 	text-align:center;
 	font-size:3em;
